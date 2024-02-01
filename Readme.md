@@ -24,7 +24,7 @@ For the first run, this is the dependency sequence.
 
 1. ECS base app
 2. Multiple environment and region ready
-3. Multip-state setup
+3. Multiple-state setup
 4. No CI/CD
 5. No autoscaling
 6. No monitoring
